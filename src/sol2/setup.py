@@ -26,7 +26,6 @@ setup(
     entry_points={
         'console_scripts': [
             'square = vanguard_rover.square_drive:main',
-            'square_drive = vanguard_rover.square_drive:main',
         ],
     },
 )

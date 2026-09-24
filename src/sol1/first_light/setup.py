@@ -25,8 +25,6 @@ setup(
     entry_points={
         'console_scripts': [
 		'circle=first_light.circle:main',
-		'square=first_light.sqaure:main',
-
         ],
     },
 )
